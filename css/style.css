@@ -190,7 +190,7 @@ img {
 
   .about,
   .method,
-  .clients-image
+  .clients-image,
   .contact-image {
     grid-column: 3 / span 2;
   }
