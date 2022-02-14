@@ -159,8 +159,8 @@ img {
 }
 
 .text {
-  text-align: center;
-  max-height: 20vh;
+  align-self: center;
+  max-height: 25vh;
   overflow: scroll;
 }
 
